@@ -15,5 +15,7 @@
 >到官方網站下載[Raspibian Stretch Lite](http://downloads.raspberrypi.org/raspbian/images/raspbian-2019-04-09/) image檔案
 使用[rufus](https://rufus.ie/)軟體，將image檔案燒入至SD卡
 * 網路設定
+>成功開機後，啟動終端機，並輸入
+        sudo raspi-config
 * 測試
 
