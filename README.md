@@ -17,7 +17,9 @@
 * 網路設定
 >成功開機後，啟動終端機，並輸入
 
-        sudo raspi-config
+        $sudo raspi-config
+並選2 Network Options -> N2 Wi-fi 輸入SSID與密碼後，即可
+
         
 * 測試
 
