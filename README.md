@@ -20,7 +20,7 @@
 
         $sudo raspi-config
         
-並選2 Network Options -> N2 Wi-fi 輸入SSID與密碼後，即可
+>並選2 Network Options -> N2 Wi-fi 輸入SSID與密碼後，即可
 
         
 * 測試
