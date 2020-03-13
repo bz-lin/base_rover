@@ -16,6 +16,8 @@
 使用[rufus](https://rufus.ie/)軟體，將image檔案燒入至SD卡
 * 網路設定
 >成功開機後，啟動終端機，並輸入
+
         sudo raspi-config
+        
 * 測試
 
