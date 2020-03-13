@@ -9,3 +9,7 @@
 ## 硬體架構
 >可以自行添加模組，來增加功能
 ![image](https://github.com/bz-lin/base_rover/blob/master/rover%E5%9F%BA%E7%A4%8E%E7%A1%AC%E9%AB%94%E6%9E%B6%E6%A7%8B.svg)
+
+## 環境架設
+* 2019-04-08-raspbian-stretch.img
+
