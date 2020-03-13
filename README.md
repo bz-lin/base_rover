@@ -12,7 +12,7 @@
 
 ## 環境架設
 * 系統安裝
->到官方網站下載[Raspibian Stretch Lite](http://downloads.raspberrypi.org/raspbian/images/raspbian-2019-04-09/)image檔案
+>到官方網站下載[Raspibian Stretch Lite](http://downloads.raspberrypi.org/raspbian/images/raspbian-2019-04-09/) image檔案
 * 網路設定
 * 測試
 
