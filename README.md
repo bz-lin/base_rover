@@ -16,7 +16,7 @@
 使用[rufus](https://rufus.ie/)軟體，將image檔案燒入至SD卡
 * 網路設定
 >由於我們的rover與monitor要在同一個區域網路內工作，因此要設定在同一個wifi網路。
->成功開機後，啟動終端機，並且輸入
+成功開機後，啟動終端機，並且輸入
 
         $sudo raspi-config
         
