@@ -69,7 +69,6 @@ You can download image file from [Buster Lite](https://downloads.raspberrypi.org
 
       [Install]
       WantedBy=multi-user.target
-        
  >Reload Daemon:
  
         $sudo systemctl daemon-reload
