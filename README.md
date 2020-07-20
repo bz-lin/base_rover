@@ -50,7 +50,7 @@ You can download image file from [Buster Lite](https://downloads.raspberrypi.org
 3. Add python3test.service for systemd :
 >Add python3test.service
         
-        sudo vi /lib/systemd/system/python3test.service
+      sudo vi /lib/systemd/system/python3test.service
         
 >Add Lines:
 
