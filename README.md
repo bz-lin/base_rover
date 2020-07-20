@@ -54,21 +54,22 @@ You can download image file from [Buster Lite](https://downloads.raspberrypi.org
         
 >Add Lines:
 
-         [Unit]
-         Descriptiona=python3test Service
-         After=multi-user.target
+      [Unit]
+      Descriptiona=python3test Service
+      After=multi-user.target
 
-         [Service]
-         Type=idle
+      [Service]
+      Type=idle
 
-         User=pi        
-         ExecStart=/usr/bin/python3 /home/pi/test/main.py
+      User=pi        
+      ExecStart=/usr/bin/python3 /home/pi/test/main.py
 
-         Restart=always
-         RestartSec=0
+      Restart=always
+      RestartSec=0
 
-         [Install]
-         WantedBy=multi-user.target
+      [Install]
+      WantedBy=multi-user.target
+
  >Reload Daemon:
  
         $sudo systemctl daemon-reload
